@@ -1,0 +1,388 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F9F9F9;
+}
+header{width: 100%;min-height: 85vh;}
+.nav_bar{
+
+}
+.nav_bar nav{
+
+}
+.nav_list{
+ 
+}
+.nav_list ul{
+    
+}
+.nav_list ul li{
+    
+}
+.nav_list ul li a{
+    
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #F0F6FB;
+    margin-right: 10px;
+}
+.btn_call{
+    border: 1px solid #F0F6FB;
+    color: #F0F6FB;
+}
+.container-fluid{
+    padding: 0;
+}
+.banner_sectionBgShape{
+    background-image: url(../images/part1-shave1.png);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 65rem;
+}
+.banner_section{
+    
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 80px;
+}
+.banner_left{
+
+}
+.banner_left h2{
+ text-transform: capitalize;
+ font-weight: 900;
+ color: #242424;
+ width: 250px;
+ padding-bottom: 5px;
+ font-size: 40px;
+}
+.banner_left h2 span{
+    color: #0961B1;
+    display: block;
+}
+.banner_left p{
+text-transform: capitalize;
+font-weight: 600;
+font-size: 12px;
+padding-bottom: 5px;
+}
+.btn-get{
+    background-color: #0C63B2;
+    color: #fff;
+    font-size: 14px;
+    padding: 10px 25px;
+}
+.btn-get:hover{
+    background-color: transparent;
+    border: 1px solid lightgray;
+    transition: .4s all ease-in-out;
+}
+.banner_right{
+
+}
+.banner_right img{
+    
+padding-left: 25px;
+    
+margin-left: 55px;
+}
+.main_content{
+
+}
+.live_calls{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.live_calls img{    
+padding-top: 45px;
+}
+.min_heightForLiveCalls{
+    min-height: 22vh;
+    width: 42%;
+    text-align: end;
+}
+.min_heightForLiveCalls h2{
+
+text-transform: capitalize;
+
+font-weight: 600;
+
+padding-bottom: 10px;
+}
+.min_heightForLiveCalls h2 span{
+    display: block;
+    color: #0C63B2;
+}
+.min_heightForLiveCalls p{
+font-size: 12px;
+color: #818181;
+}
+.main_contentSecond{
+
+}
+.card_custom{
+
+padding: 20px 30px 40px 30px;
+
+height: 275px;
+}
+.card_title{
+    display: flex;
+    align-items: center;
+    padding-bottom: 25px;
+}
+.card_title a{
+
+}
+.card_title a img{
+ 
+}
+.card_title h5{
+    padding-left: 15px;
+    color: #3F3F3F !important;
+    font-weight: 900;
+    font-size: 25px;
+}
+.card_custom P{
+    color: #242424;
+}
+.card_custom:hover{
+    background-color: rgb(240, 238, 238);
+    transition: .4s all ease-in-out;
+}
+.started_heading{
+text-align: center;
+padding: 50px 0;
+}
+.started_heading h1{
+text-transform: capitalize;
+font-weight: 900;
+}
+.started_heading h1 span{
+color: #0961B1;
+}
+.started_card{
+
+width: 79%;
+
+height: 230px;
+
+background-color: white;
+
+border-radius: 15px;
+
+padding: 18px 12px 12px 12px;
+}
+.started_card i{
+    border-radius: 50%;
+    color: #fff;
+    padding: 3px;
+    margin-top: 2px;
+    background-color: #409830;
+}
+.card_text{
+}
+.card_text h5{
+
+width: 54%;
+}
+.card_text p{
+
+color: #454545;
+}
+.started_img{
+    display: flex;
+    justify-content: end;
+}
+.started_img img{
+    width: 71%;
+}
+.started_card:hover{
+    background-color: #f3f3f3;
+    transition: .4s all ease-in-out;
+}
+.cross_icon{
+}
+.cross_icon i{
+padding: 3px 6px 3px 6px;
+background-color: red;
+}
+.shave_one{
+        background-image: url(../images/part2-shave.png);
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 65vh;
+}
+.bg_shapeForSecondPart{
+    background-image: url(../images/part4-shave.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 65vh;
+}
+.btn_next a{
+
+}
+.process_item{
+position: relative;
+background-color: #f3f3f3;
+border-radius: 115px 115px 10px 10px;
+}
+.process_item h4{
+    padding-top: 32px;
+    text-transform: capitalize;
+}
+.process_item p{
+padding: 18px;
+}
+.process_flex{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.number_BG_BG{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -39px;
+    background-color: #fff;
+    width: 20%;
+    border-radius: 50%;
+    padding: 20px 6px 10px 6px;
+    text-align: center;
+}
+.number_BG{
+    
+background-color: #0f65b3;
+    
+border-radius: 50%;
+    
+padding: 8px 6px 2px 5px;
+    
+margin: -11px 1px 0px 1px;
+}
+.number_BG h3{
+    color: #fff;
+}
+.serve{
+
+}
+.industries_serve{
+
+}
+.industries_serve img{
+
+}
+.industries_serve h4{
+font-weight: 600;
+}
+.industries_serve ul{
+list-style: none;
+}
+.industries_serve ul li{
+
+}
+.industries_serve ul li i{
+
+}
+.img_title{
+padding-left: 32px;
+}
+.accordion_section{
+    display: flex;
+    justify-content: center;
+}
+  /* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+    background-color: #ffff;
+    color: #444;
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    margin-bottom: 5px;
+    border-radius: 20px;
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .active, .accordion:hover {
+    background-color: rgb(224, 222, 222);
+  }
+  
+  /* Style the accordion panel. Note: hidden by default */
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+    margin-bottom: 10px;
+  }
+  .accordion_custom{
+  
+  }
+  footer{
+    min-height: 100vh;
+  }
+  .footerBG{
+    background-image: url(../images/part8-shave.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 45rem;
+}
+.footerLast{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-bottom: 15px;
+}
+.footerLast p{
+padding: 12px 15px 0px 10px;
+color: #fff;
+}
+.footerLast a{
+
+}
+.footerLeftContent{
+
+}
+.footerLeftContent h6{
+    font-size: 12px;
+    color: #fff;
+}
+.iconFooter{
+padding-top: 5rem;
+padding-bottom: 40px;
+}
+.iconFooter i{
+    color: #0961B1;
+    
+}
+.box{
+    display: flex;
+    
+}
+.box i{
+
+}
+.box p{
+    padding-left: 10px
+}
+.footerLogo{
+
+}
+.footerLogo img{
+    width: 15%;
+}
+.footerLogo p{
+    padding-top: 25px;
+    font-weight: 200;
+}
